@@ -13,7 +13,7 @@ export const viewport  = {
 }
 
 export const metadata = {
-    title: 'Todo App',
+    title: 'Todo App for Testing PIXL',
     description: "An example of NextJS app with 100% accessible lighthouse score",
     
     manifest: "/static/manifest.json"
