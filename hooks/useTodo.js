@@ -4,7 +4,7 @@ export const useTodo = () => {
 	const initialState = [
 		{
 			id: 'vnode',
-			text: 'A simple initial todo',
+			text: 'Initial todo',
 			completed: false,
 		},
 	]
