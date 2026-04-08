@@ -7,6 +7,11 @@ export const useTodo = () => {
 			text: 'TEST TODO',
 			completed: false,
 		},
+		{
+			id: 'vnode2',
+			text: 'TEST ASGAGSHJGJAGSAS',
+			completed: false,
+		},
 	]
 	const [todos, setTodos] = useState(initialState)
 
