@@ -9,7 +9,7 @@ export const useTodo = () => {
 		},
 		{
 			id: 'vnode2',
-			text: 'TEST ASGAGSHJGJAGSAS',
+			text: 'TEST HALLo Preview Test',
 			completed: false,
 		},
 	]
